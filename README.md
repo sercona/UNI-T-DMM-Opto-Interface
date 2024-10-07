@@ -12,6 +12,14 @@ Parts needed are simple:
 
 ![DMM_parts](images/PXL_20241006_221243451.jpg)
 
+- photo diode (https://www.amazon.com/gp/product/B07VNSX74J)
+- esp32c3 mini (https://www.amazon.com/DWEII-ESP32-C3-Development-Bluetooth-Frequency/dp/B0CW62PPZ1)
+- DC barrel jack, 5.5 x 2.1mm (https://www.amazon.com/gp/product/B07SV6KCT5)
+- 200 ohm 1/8 watt resistor (power rating not imporant)
+- (2) m2 x 6mm screws and nuts
+- i2c oled display (https://www.amazon.com/gp/product/B0925SSKHB)
+  
+
 ![esp32_view_1](images/PXL_20241006_223013554.jpg)
 
 ![box_inside_1](/images/PXL_20241006_231246798.jpg)
