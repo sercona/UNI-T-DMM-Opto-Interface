@@ -1,5 +1,8 @@
 # UNI-T Multimeter Digital Interface
 
+2026-jan-10 update: I've included a demo arduino app (note, it needs 2 libs, also in my sercona github) that will parse the raw opto out and print the human readable values over serial.  Its just a demo to show how to use the library.  Also note, the library for the chipset still needs some tweaks, mostly on the unusual values given for an open-circuit or overflow or other non-typial values.  
+
+
 ## Optical plug-in module for the UT-61e (and similar) series of Multimeter.
 
 ![DMM](images/PXL_20241006_233730907.jpg)
